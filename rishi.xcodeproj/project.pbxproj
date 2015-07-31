@@ -159,6 +159,8 @@
 		9F38587E1B4F68CD00C954AE /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Kenneth Cordero";
 				TargetAttributes = {
@@ -415,6 +417,7 @@
 				9F3858AA1B4F68CD00C954AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9F3858AB1B4F68CD00C954AE /* Build configuration list for PBXNativeTarget "rishiTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +426,7 @@
 				9F3858AD1B4F68CD00C954AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
